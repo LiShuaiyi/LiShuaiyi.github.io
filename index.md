@@ -48,7 +48,9 @@ Mainly focus: Adversarial attack and medical image processing, including
 
 ## Blogs
 
+This region is in construction...
 
+👷👷‍♀️👷🏽🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
 
 ## Contact
 
