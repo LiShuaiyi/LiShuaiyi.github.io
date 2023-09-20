@@ -47,4 +47,11 @@ Mainly focus: Adversarial attack and medical image processing, including
 [1] Fan He, Sizhe Chen, **Shuaiyi Li**, et al. “Colonoscopic image synthesis for polyp detector enhancement via gan and adversarial training.” in IEEE 18th International Symposium on Biomedical Imaging (ISBI), 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9434050)
 
 ## Blogs
+
+
+
 ## Contact
+
+[Email](lishuaiyi@sjtu.edu.cn): `lishuaiyi@sjtu.edu.cn`
+
+[Github](https://github.com/LiShuaiyi) 
