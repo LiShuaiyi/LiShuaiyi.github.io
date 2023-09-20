@@ -1,4 +1,3 @@
-# Shuaiyi Li's Homepage
 
 ## 🦕 About Me
 
