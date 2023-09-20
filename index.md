@@ -1,3 +1,4 @@
+<title>Fan Zhou's Homapage - Homepage</title>
 
 ## 🦕 About Me
 
