@@ -1,9 +1,13 @@
 
-## About Me
+## 🦕 About Me
 
 I am currently a second-year Master student at [Shanghai Jiao Tong University](https://sjtu.edu.cn/), supervised by [Prof. Xiang Yin](https://xiangyin.sjtu.edu.cn/), major in automation. Before that, I received my B.S. degree in SJTU, also major in automation.
 
-## Education Experience
+✉️Email: lishuaiyi@sjtu.edu.cn
+
+🔗[Github](https://github.com/LiShuaiyi) 
+
+## 📖 Education Experience
 
 - 2021.09 - 2024.03(*expected*), M.S. in Shanghai Jiao Tong University, Automation
 
@@ -17,7 +21,7 @@ I am currently a second-year Master student at [Shanghai Jiao Tong University](h
 
 - 2012.09-2017.07, junior and senior high school all together in Gifted Class, North East YuCai School (NEYC)  
 
-## Research Experience
+## 📝 Research Experience
 
 ### [SJTU Cyber-physical System Lab](https://xiangyin.sjtu.edu.cn/group.html), 2021.09 – Present
 
@@ -52,8 +56,3 @@ This region is in construction...
 
 👷👷‍♀️👷🏽🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
 
-## Contact
-
-✉️Email: lishuaiyi@sjtu.edu.cn
-
-🔗[Github](https://github.com/LiShuaiyi) 
