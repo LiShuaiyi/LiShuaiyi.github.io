@@ -1,4 +1,4 @@
-<span style="color: white;">Shuaiyi Li's Homepage</span>
+<span style="color: red;">Shuaiyi Li's Homepage</span>
 
 ## 🦕 About Me
 
