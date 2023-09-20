@@ -1,4 +1,4 @@
-<span style="color: rgba(0, 0, 0, 0); display: none;">Shuaiyi Li's Homepage</span>
+<span style="color: rgba(0, 0, 0, 0);">Shuaiyi Li's Homepage</span>
 
 
 
