@@ -1,7 +1,8 @@
 
 ## 🦕 About Me
 
-<img src="contents/intro.jpg" alt="Alt Text" style="float: left; margin-right: 20px;width:20%">
+
+<img src="contents/intro.jpg" alt="Alt Text" style="float: left; margin-right: 10px;width:20%">
 
 I am currently a second-year Master student at [Shanghai Jiao Tong University](https://sjtu.edu.cn/), supervised by [Prof. Xiang Yin](https://xiangyin.sjtu.edu.cn/), major in automation. Before that, I received my B.S. degree in SJTU, also major in automation.
 
