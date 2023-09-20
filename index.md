@@ -36,5 +36,15 @@ Active Acquisition of Information.” in IEEE Trans. Intelligent Vehicles (T-IV)
 
 ### [SJTU Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/En/Home), 2019.08-2021.06
 
+Mainly focus: Adversarial attack and medical image processing, including 
+
+-  Attack and data enhancement of colonoscopy polyp detector
+
+- Analyze of chromosome karyotype image
+
+*Publications*: 
+
+[1] Fan He, Sizhe Chen, **Shuaiyi Li**, et al. “Colonoscopic image synthesis for polyp detector enhancement via gan and adversarial training.” in IEEE 18th International Symposium on Biomedical Imaging (ISBI), 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9434050)
+
 ## Blogs
 ## Contact
