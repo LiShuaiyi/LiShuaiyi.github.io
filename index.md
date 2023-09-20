@@ -7,7 +7,13 @@ I am currently a second-year Master student at [Shanghai Jiao Tong University](h
 
 🔗[Github](https://github.com/LiShuaiyi) 
 
+## 🔥 News
+
+- 2023.03 🎉🎉Our non-blocking controller synthesis paper got accepted by IFAC'23.
+
 ## 📖 Education Experience
+
+*Educations*:
 
 - 2021.09 - 2024.03(*expected*), M.S. in Shanghai Jiao Tong University, Automation
 
@@ -19,7 +25,11 @@ I am currently a second-year Master student at [Shanghai Jiao Tong University](h
 
     *Grade 88.0/100; Ranking 15/104*
 
-- 2012.09-2017.07, junior and senior high school all together in Gifted Class, North East YuCai School (NEYC)  
+- 2012.09-2017.07, junior and senior high school all together in Gifted Class, North East YuCai School (NEYC) 
+
+*Scholarships and Awards*:
+
+- Shanghai Jiao Tong University First Class Scholarship, 2021-2023
 
 ## 📝 Research Experience
 
@@ -50,7 +60,7 @@ Mainly focus: Adversarial attack and medical image processing, including
 
 [1] Fan He, Sizhe Chen, **Shuaiyi Li**, et al. “Colonoscopic image synthesis for polyp detector enhancement via gan and adversarial training.” in IEEE 18th International Symposium on Biomedical Imaging (ISBI), 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9434050)
 
-## Blogs
+## 🌴 Blogs
 
 This region is in construction...
 
