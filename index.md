@@ -1,6 +1,4 @@
-<span style="color: rgba(0, 0, 0, 0);">Shuaiyi Li's Homepage</span>
-
-
+# Shuaiyi Li's Homepage
 
 ## 🦕 About Me
 
