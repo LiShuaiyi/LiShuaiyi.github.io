@@ -32,13 +32,13 @@ I am currently a final-year Master student at [Shanghai Jiao Tong University](ht
 
 [Back](#shuaiyi-li-李帅谊)
 
-## 🔥 News <a name="news" style="color: transparent;">a</a>
+## 🔥 News <a name="news" style="color: transparent;"> </a>
 
 - 2023.03 🎉🎉Our non-blocking controller synthesis paper got accepted by IFAC'23.
 
 [Back](#shuaiyi-li-李帅谊)
 
-## 📖 Education Experience <a name="education" style="color: transparent;">a</a>
+## 📖 Education Experience <a name="education" style="color: transparent;"> </a>
 
 *Educations*:
 
@@ -60,7 +60,7 @@ I am currently a final-year Master student at [Shanghai Jiao Tong University](ht
 
 [Back](#shuaiyi-li-李帅谊)
 
-## 📝 Research Experience <a name="research" style="color: transparent;">a</a>
+## 📝 Research Experience <a name="research" style="color: transparent;"> </a>
 
 ### [SJTU Cyber-physical System Lab](https://xiangyin.sjtu.edu.cn/group.html), 2021.09 – Present
 
@@ -91,7 +91,7 @@ Mainly focus: Adversarial attack and medical image processing, including
 
 [Back](#shuaiyi-li-李帅谊)
 
-## 🌴 Blogs <a name="blogs" style="color: transparent;">a</a>
+## 🌴 Blogs <a name="blogs" style="color: transparent;"> </a>
 
 This region is in construction...
 
