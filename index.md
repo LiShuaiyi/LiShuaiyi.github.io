@@ -20,7 +20,7 @@ hr.transparent {
 </style>
 <hr class="transparent">
 
-## 🌙 About Me <a name="me" style="color: transparent;">a</a>
+## 🌙 About Me <a name="me" style="color: transparent;"> </a>
 
 <img src="contents/intro.jpg" alt="me" style="float: left; margin-right: 20px;width:40%">
 
