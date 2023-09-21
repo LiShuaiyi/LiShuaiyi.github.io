@@ -2,13 +2,13 @@
 
 <center>
   <a href="#me"> Me</a>
-  &emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;
   <a href="#news">News</a>
-  &emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;
   <a href="#education">Education</a>
-  &emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;
   <a href="#research">Research</a>
-  &emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;
   <a href="#blogs">Blogs</a>
 </center>
 
