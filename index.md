@@ -12,7 +12,7 @@
   <a href="#🌴-blogs">Blogs</a>
 </center> -->
 
-[Me](#🌙-about-me)
+[Me](#about-me)
 
 [News](#🔥-news)
 
