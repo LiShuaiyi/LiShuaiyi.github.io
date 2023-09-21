@@ -1,18 +1,20 @@
 # Shuaiyi Li 李帅谊
 
 <center>
-  <a href="#about-me">About Me</a>
-  &emsp;&emsp;
-  <a href="#🔥-news">News</a>
-  &emsp;&emsp;
-  <a href="#📖-education-experience">Education</a>
-  &emsp;&emsp;
-  <a href="#📝-research-experience">Research</a>
-  &emsp;&emsp;
-  <a href="#🌴-blogs">Blogs</a>
+  <a href="#me">About Me</a>
+  &emsp;&emsp;&emsp;
+  <a href="#news">News</a>
+  &emsp;&emsp;&emsp;
+  <a href="#education">Education</a>
+  &emsp;&emsp;&emsp;
+  <a href="#research">Research</a>
+  &emsp;&emsp;&emsp;
+  <a href="#blogs">Blogs</a>
 </center>
 
-## About Me
+## 🌙 About Me <a name="me">a</a>
+
+<a name="me">a</a>
 
 <img src="contents/intro.jpg" alt="me" style="float: left; margin-right: 20px;width:40%">
 
