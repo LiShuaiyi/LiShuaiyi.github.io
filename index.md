@@ -3,7 +3,7 @@
 <center>
   <a href="#ee"> ee </a>
   &emsp;&emsp;&emsp;
-  <a href="#about-me"> 🌙 About Me</a>
+  <a href="#me"> 🌙 About Me</a>
   &emsp;&emsp;&emsp;
   <a href="#news">News</a>
   &emsp;&emsp;&emsp;
