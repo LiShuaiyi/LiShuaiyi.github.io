@@ -12,7 +12,7 @@
   <a href="#blogs" style="font-size: 1.5em; bold;">Blogs</a>
 </center>
 
-<br>
+---
 
 ## 🌙 About Me <a name="me" style="color: transparent;">a</a>
 
