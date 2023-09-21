@@ -1,7 +1,7 @@
 # Shuaiyi Li 李帅谊
 
-<!-- <center>
-  <a href="#🌙-about-me">About Me</a>
+<center>
+  <a href="#about-me">About Me</a>
   &emsp;&emsp;
   <a href="#🔥-news">News</a>
   &emsp;&emsp;
@@ -10,11 +10,7 @@
   <a href="#📝-research-experience">Research</a>
   &emsp;&emsp;
   <a href="#🌴-blogs">Blogs</a>
-</center> -->
-
-[Me](#about-me)
-
-[News](#🔥-news)
+</center>
 
 ## About Me
 
