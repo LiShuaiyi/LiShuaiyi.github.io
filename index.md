@@ -12,7 +12,13 @@
   <a href="#blogs" style="font-size: 1.5em; bold;">Blogs</a>
 </center>
 
----
+<style>
+hr.transparent {
+    border: none;
+    background: transparent;
+}
+</style>
+<hr class="transparent">
 
 ## 🌙 About Me <a name="me" style="color: transparent;">a</a>
 
