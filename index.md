@@ -1,7 +1,7 @@
 # Shuaiyi Li 李帅谊
 
 <center>
-  <a href="#me"> Me</a>
+  <a href="#me" style="font-size: 1.5em; bold;"> Me</a>
   &emsp;&emsp;&emsp;&emsp;
   <a href="#news">News</a>
   &emsp;&emsp;&emsp;&emsp;
