@@ -1,6 +1,8 @@
 # Shuaiyi Li 李帅谊
 
 <center>
+  <a href="#ee"> ee </a>
+  &emsp;&emsp;&emsp;
   <a href="#about-me"> 🌙 About Me</a>
   &emsp;&emsp;&emsp;
   <a href="#news">News</a>
@@ -13,6 +15,8 @@
 </center>
 
 ## About Me <a name="me" style="display: none;">a</a>
+
+<a name="ee" style="display: none;">ee</a>
 
 <img src="contents/intro.jpg" alt="me" style="float: left; margin-right: 20px;width:40%">
 
