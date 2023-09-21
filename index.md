@@ -14,7 +14,9 @@
   <a href="#blogs">Blogs</a>
 </center>
 
-## About Me <a name="me" style="display: none;">a</a>
+## About Me 
+
+<a name="me" style="display: none;">a</a>
 
 <a name="ee" style="display: none;">ee</a>
 
