@@ -18,7 +18,7 @@
 
 <a name="me" style="display: none;">a</a>
 
-<a name="ee" style="display: none;">ee</a>
+<a name="ee">ee</a>
 
 <img src="contents/intro.jpg" alt="me" style="float: left; margin-right: 20px;width:40%">
 
