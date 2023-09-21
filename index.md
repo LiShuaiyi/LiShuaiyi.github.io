@@ -1,9 +1,7 @@
 # Shuaiyi Li 李帅谊
 
 <center>
-  <a href="#ee"> ee </a>
-  &emsp;&emsp;&emsp;
-  <a href="#me"> 🌙 About Me</a>
+  <a href="#me"> Me</a>
   &emsp;&emsp;&emsp;
   <a href="#news">News</a>
   &emsp;&emsp;&emsp;
@@ -16,8 +14,6 @@
 
 ## 🌙 About Me <a name="me" style="color: transparent;">a</a>
 
-<a name="ee">ee</a>
-
 <img src="contents/intro.jpg" alt="me" style="float: left; margin-right: 20px;width:40%">
 
 I am currently a final-year Master student at [Shanghai Jiao Tong University](https://sjtu.edu.cn/), supervised by [Prof. Xiang Yin](https://xiangyin.sjtu.edu.cn/), major in automation. Before that, I received my B.S. degree in SJTU, also major in automation.
@@ -28,13 +24,13 @@ I am currently a final-year Master student at [Shanghai Jiao Tong University](ht
 
 [Back](#shuaiyi-li-李帅谊)
 
-## 🔥 News <a name="news" style="display: none;">a</a>
+## 🔥 News <a name="news" style="color: transparent;">a</a>
 
 - 2023.03 🎉🎉Our non-blocking controller synthesis paper got accepted by IFAC'23.
 
 [Back](#shuaiyi-li-李帅谊)
 
-## 📖 Education Experience <a name="education" style="display: none;">a</a>
+## 📖 Education Experience <a name="education" style="color: transparent;">a</a>
 
 *Educations*:
 
@@ -56,7 +52,7 @@ I am currently a final-year Master student at [Shanghai Jiao Tong University](ht
 
 [Back](#shuaiyi-li-李帅谊)
 
-## 📝 Research Experience <a name="research" style="display: none;">a</a>
+## 📝 Research Experience <a name="research" style="color: transparent;">a</a>
 
 ### [SJTU Cyber-physical System Lab](https://xiangyin.sjtu.edu.cn/group.html), 2021.09 – Present
 
@@ -87,7 +83,7 @@ Mainly focus: Adversarial attack and medical image processing, including
 
 [Back](#shuaiyi-li-李帅谊)
 
-## 🌴 Blogs <a name="blogs" style="display: none;">a</a>
+## 🌴 Blogs <a name="blogs" style="color: transparent;">a</a>
 
 This region is in construction...
 
