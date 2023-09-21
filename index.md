@@ -14,7 +14,6 @@
 
 ## 🌙 About Me <a name="me">a</a>
 
-<a name="me">a</a>
 
 <img src="contents/intro.jpg" alt="me" style="float: left; margin-right: 20px;width:40%">
 
