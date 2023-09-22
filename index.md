@@ -52,7 +52,7 @@ I am currently a final-year Master student at [Shanghai Jiao Tong University](ht
 
     *Grade 88.0/100; Ranking 15/104*
 
-- 2012.09-2017.07, junior and senior high school all together in Gifted Class, North East YuCai School (NEYC) 
+- 2013.09-2017.07, junior and senior high school all together in Gifted Class, North East YuCai School (NEYC) 
 
 *Scholarships and Awards*:
 
