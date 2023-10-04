@@ -2,13 +2,13 @@
 
 <center>
   <a href="#me" style="font-size: 1.5em; bold;"> Me</a>
-  &emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;
   <a href="#news" style="font-size: 1.5em; bold;">News</a>
-  &emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;
   <a href="#education" style="font-size: 1.5em; bold;">Education</a>
-  &emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;
   <a href="#research" style="font-size: 1.5em; bold;">Research</a>
-  &emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;
   <a href="#blogs" style="font-size: 1.5em; bold;">Blogs</a>
 </center>
 
