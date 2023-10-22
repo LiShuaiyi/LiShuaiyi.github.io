@@ -34,6 +34,8 @@ I am currently a final-year Master student at [Shanghai Jiao Tong University](ht
 
 ## 🔥 News <a name="news" style="color: transparent;"> </a>
 
+- 2023.10 🎉🎉Our control-sensing co-synthesis paper got accepted by T-IV.
+
 - 2023.03 🎉🎉Our non-blocking controller synthesis paper got accepted by IFAC'23.
 
 [Back](#shuaiyi-li-李帅谊)
@@ -56,7 +58,15 @@ I am currently a final-year Master student at [Shanghai Jiao Tong University](ht
 
 *Scholarships and Awards*:
 
-- Shanghai Jiao Tong University First Class Scholarship, 2021-2023
+- Shanghai Jiao Tong University First Class Scholarship, 2021-2022
+
+*Some In-course Projects*:
+
+- [Implementation of Robotic Arm Automatic Puzzle Restoration](https://youtu.be/eazBaS1Es84)
+
+- [ROS-Gazebo Mobile Robot Simulation](https://youtu.be/fqzCEy0d5tw)
+
+- [Robot Path Tracking and Visual Mark Detection](https://youtu.be/7F_FDrnY4Pc)
 
 [Back](#shuaiyi-li-李帅谊)
 
