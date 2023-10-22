@@ -62,11 +62,11 @@ I am currently a final-year Master student at [Shanghai Jiao Tong University](ht
 
 *Some In-course Projects*:
 
-- <a href="https://youtu.be/eazBaS1Es84" style="color: black;">Implementation of Robotic Arm Automatic Puzzle Restoration</a>
+- Implementation of Robotic Arm Automatic Puzzle Restoration [[Video]](https://youtu.be/eazBaS1Es84)
 
-- <a href="https://youtu.be/fqzCEy0d5tw" style="color: black;">ROS-Gazebo Mobile Robot Simulation</a>
+- ROS-Gazebo Mobile Robot Simulation [[Video]](https://youtu.be/fqzCEy0d5tw)
 
-- <a href="https://youtu.be/7F_FDrnY4Pc" style="color: black;">Robot Path Tracking and Visual Mark Detection</a>
+- Robot Path Tracking and Visual Mark Detection [[Video]](https://youtu.be/7F_FDrnY4Pc)
 
 [Back](#shuaiyi-li-李帅谊)
 
