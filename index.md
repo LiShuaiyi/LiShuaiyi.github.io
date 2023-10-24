@@ -85,7 +85,7 @@ I am currently a final-year Master student at [Shanghai Jiao Tong University](ht
 [1] **Shuaiyi Li**, S. Li and X. Yin. “Synthesis of non-blocking controllers for linear temporal logic tasks under partial observations.” in 22nd IFAC World Congress, accepted, 2023. [[PDF]](https://xiangyin.sjtu.edu.cn/Paper/23IFAC-nb.pdf) [[Talk]](https://youtu.be/vB2aQkdv20s) [[Video]](https://youtu.be/TJpwzvSHXSQ)
 
 [2] **Shuaiyi Li**, M. Wei, S. Li and X. Yin. “Temporal Logic Task Planning for Autonomous Systems with
-Active Acquisition of Information.” in IEEE Trans. Intelligent Vehicles (T-IV), under review, 2023. [[Video]](https://youtu.be/nO3lqp_UysQ)
+Active Acquisition of Information.” in IEEE Trans. Intelligent Vehicles (T-IV), accepted, 2023. [[Video]](https://youtu.be/nO3lqp_UysQ)
 
 ### [SJTU Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/En/Home), 2019.08-2021.06
 
