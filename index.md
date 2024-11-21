@@ -72,7 +72,7 @@ I am currently a first-year PhD student at [Cyber-Physical Systems Group](https:
 
 ## 📝 Research Experience <a name="research" style="color: transparent;"> </a>
 
-### [SJTU Cyber-physical System Lab](https://xiangyin.sjtu.edu.cn/group.html), 2021.09 – Present
+### [SJTU Cyber-physical System Lab](https://xiangyin.sjtu.edu.cn/group.html), 2021.09 – 2024.03
 
 *Mainly focus*: High-level liner temporal logic task planning problem for intelligent agent under partial observation, including
 
