@@ -30,6 +30,8 @@ I am currently a first-year PhD student at [Cyber-Physical Systems Group](https:
 
 🔗[Github](https://github.com/LiShuaiyi) 
 
+📃[Google Scholar](https://scholar.google.com/citations?user=jEFUAW4AAAAJ&hl=zh-CN&oi=ao)
+
 [Back](#shuaiyi-li-李帅谊)
 
 ## 🔥 News <a name="news" style="color: transparent;"> </a>
