@@ -26,7 +26,7 @@ hr.transparent {
 
 I am currently a first-year PhD student at [Cyber-Physical Systems Group](https://www.ce.cit.tum.de/en/cps/home/) of Technical University of Munich, supervised by [Prof. Dr.-Ing. Matthias Althoff](https://www.ce.cit.tum.de/en/cps/members/prof-dr-ing-matthias-althoff/). Before that, I received my M.Sc and B.S. degree in SJTU, supervised by [Prof. Xiang Yin](https://xiangyin.sjtu.edu.cn/) major in automation. [[CV]](./contents/ShuaiyiLi_CV.pdf)
 
-✉️Email: lishuaiyi@sjtu.edu.cn
+✉️Email: shuaiyi.li@tum.de
 
 🔗[Github](https://github.com/LiShuaiyi) 
 
@@ -44,7 +44,7 @@ I am currently a first-year PhD student at [Cyber-Physical Systems Group](https:
 
 *Educations*:
 
-- 2021.09 - 2024.03(*expected*), M.S. in Shanghai Jiao Tong University, Automation
+- 2021.09 - 2024.03, M.S. in Shanghai Jiao Tong University, Automation
 
     *GPA 3.84/4.0; Ranking 8/122*
 
