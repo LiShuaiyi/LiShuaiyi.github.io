@@ -22,7 +22,7 @@ hr.transparent {
 
 ## 🌙 About Me <a name="me" style="color: transparent;"> </a>
 
-<img src="contents/intro.jpg" alt="me" style="float: left; margin-right: 20px;width:40%">
+<img src="contents/intro.jpg" alt="me" style="float: left; margin-right: 20px;width:25%">
 
 I am currently a first-year PhD student at [Cyber-Physical Systems Group](https://www.ce.cit.tum.de/en/cps/home/) of Technical University of Munich, supervised by [Prof. Dr.-Ing. Matthias Althoff](https://www.ce.cit.tum.de/en/cps/members/prof-dr-ing-matthias-althoff/). Before that, I received my M.Sc and B.S. degree in SJTU, supervised by [Prof. Xiang Yin](https://xiangyin.sjtu.edu.cn/) major in automation. [[CV]](./contents/ShuaiyiLi_CV.pdf)
 
