@@ -32,15 +32,13 @@ I am currently a first-year PhD student at [Cyber-Physical Systems Group](https:
 
 📃[Google Scholar](https://scholar.google.com/citations?user=jEFUAW4AAAAJ&hl=zh-CN&oi=ao)
 
-[Back](#shuaiyi-li-李帅谊)
 
 ## 🔥 News <a name="news" style="color: transparent;"> </a>
 
 - 2023.10 🎉🎉Our control-sensing co-synthesis paper got accepted by T-IV.
 
 - 2023.03 🎉🎉Our non-blocking controller synthesis paper got accepted by IFAC'23.
-
-[Back](#shuaiyi-li-李帅谊)
+  
 
 ## 📖 Education Experience <a name="education" style="color: transparent;"> </a>
 
