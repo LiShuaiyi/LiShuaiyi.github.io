@@ -74,7 +74,11 @@ I am currently a first-year PhD student at [Cyber-Physical Systems Group](https:
 
 ### [TUM Cyber-physical System Lab](https://www.ce.cit.tum.de/en/cps/home/), 2024.11 – Present
 
-*Mainly focus*: Reinforcement learning, autonomous driving and formal verification of traffic rules.
+*Mainly focus*: Reinforcement learning, autonomous driving and formal verification of traffic rules, including
+
+- NN based action masking for provably safe RL
+
+- Traffic rule compliment RL for autonomous driving 
 
 ### [SJTU Cyber-physical System Lab](https://xiangyin.sjtu.edu.cn/group.html), 2021.09 – 2024.03
 
