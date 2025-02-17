@@ -72,6 +72,10 @@ I am currently a first-year PhD student at [Cyber-Physical Systems Group](https:
 
 ## 📝 Research Experience <a name="research" style="color: transparent;"> </a>
 
+### [TUM Cyber-physical System Lab](https://www.ce.cit.tum.de/en/cps/home/), 2024.11 – Present
+
+*Mainly focus*: Reinforcement learning, autonomous driving and formal verification of traffic rules.
+
 ### [SJTU Cyber-physical System Lab](https://xiangyin.sjtu.edu.cn/group.html), 2021.09 – 2024.03
 
 *Mainly focus*: High-level liner temporal logic task planning problem for intelligent agent under partial observation, including
@@ -87,7 +91,7 @@ I am currently a first-year PhD student at [Cyber-Physical Systems Group](https:
 [2] **Shuaiyi Li**, M. Wei, S. Li and X. Yin. “Temporal Logic Task Planning for Autonomous Systems with
 Active Acquisition of Information.” in IEEE Trans. Intelligent Vehicles (T-IV), accepted, 2023. [[PDF]](https://ieeexplore.ieee.org/document/10294100) [[Video]](https://youtu.be/nO3lqp_UysQ)
 
-### [SJTU Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/En/Home), 2019.08-2021.06
+### [SJTU Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/En/Home), 2019.08 - 2021.06
 
 Mainly focus: Adversarial attack and medical image processing, including 
 
